@@ -14,3 +14,4 @@ MUN = Município
 POPT = População total
 POPU = População urbana
 POPTESG = População total atendida com esgotamento sanitário
+REG = Região do estado em que o município se encontra
