@@ -7,3 +7,10 @@ Nesta pasta contém:
 
 scripts = códigos em python
 dados = pasta com dados
+
+Legenda
+COD = Código do município
+MUN = Município
+POPT = População total
+POPU = População urbana
+POPTESG = População total atendida com esgotamento sanitário
