@@ -23,3 +23,7 @@ POPTESG = População total atendida com esgotamento sanitário - ES001
 POPUESG = População urbana com esgotamento sanitário - ES026
 
 REG = Região do estado em que o município se encontra - mesorregiões CAU
+
+POPR = Cálculo da população rural
+
+PESG = Percentual de população atendida com esgotamento sanitário
