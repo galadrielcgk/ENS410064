@@ -15,4 +15,4 @@ POPT = População total
 POPU = População urbana
 POPTESG = População total atendida com esgotamento sanitário - ES001
 POPUESG = População urbana com esgotamento sanitário - ES026
-REG = Região do estado em que o município se encontra
+REG = Região do estado em que o município se encontra - mesorregiões CAU
